@@ -1,7 +1,3 @@
-# Copyright 2019 - Michael Bergeron
-# Released under the terms of the MIT License
-# See the LICENSE file for more information
-
 import json
 import logging
 import os
