@@ -1,11 +1,21 @@
 *QVG NOTAMs*
 
+_*20.1 Updates*_
+
+```20.1 has been released and we are allowing all flights in our with the 737 and 777 to be filed by any pilot, regardless of rank.
+This offer will be valid until 1600Z on Monday the 15th of June (Tuesday 2am AEST).
+When submitting these flights, please select the Type as "Featured Route" and in the remarks put the correct aircraft.```
+
+_*Crew Centre HTTP 500 ERROR June20*_
+
+```We are aware of an ongoing HTTP 500 Error when accessing the crew centre and are actively attempting to solve the issue surrounding our error system. 
+If you are accessing the crew centre and are greeted with a HTTP 500 Error, it means you aren't logged in. A simple fix to this is by going to https://ifqantasvirtual.com/login and logging in.
+
+If you log in and are still having the HTTP 500 issue, it means you are entering the wrong login information. It would appear the system for validating incorrect logins is down, so you need to either enter the right email/password, or reset your login information. 
+Please contact staff if you encounter further issues.```
+
 _*COVID-19 Cancellations March20*_
 
 ```Please be advised certain flights may be affected by COVID-19. You have the option to follow Qantas' procedures as outlined at https://www.qantas.com/au/en/travel-info/travel-updates/coronavirus/qantas-international-network-changes.html
-
-This will affect the following flights: 
-Pretty much all international services.
-#sorrynotsorry
 
 You are welcome to abide by these new regulations if you wish to do so, however they will not be enforced```
